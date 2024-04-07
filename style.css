@@ -9,7 +9,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient( 45deg , #31363F, #222831);
+    /* background: linear-gradient( 45deg , #31363F, #222831); */
+    background: linear-gradient( 45deg , #9cad5e, #2b3122);
 }
 .calculator{
     border: 1px solid cyan;
